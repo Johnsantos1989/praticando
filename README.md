@@ -1,3 +1,4 @@
+Adicionando imagem IA no README
 # 🎯 Jogo do Número Secreto
 Adicionando explicação do jogo e imagem
 
@@ -6,6 +7,11 @@ Este repositório contém um mini jogo interativo criado com HTML, CSS e JavaScr
 ## 🧠 Sobre o jogo
 
 O jogador deve adivinhar um número secreto aleatório entre 1 e 10. A cada tentativa, o jogo informa se o número é maior ou menor. Ao acertar, uma mensagem personalizada é exibida, junto com a quantidade de tentativas realizadas — tudo isso com narração por voz para dar mais imersão.
+
+## 👾 Imagem do Jogo
+
+![IA do jogo](./ia.png)
+
 
 ## 🚀 Funcionalidades
 
