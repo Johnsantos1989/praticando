@@ -10,7 +10,7 @@ O jogador deve adivinhar um número secreto aleatório entre 1 e 10. A cada tent
 
 ## 👾 Imagem do Jogo
 
-![IA do jogo](./ia.png)
+![Imagem do jogo](ia-personagem.png)
 
 
 ## 🚀 Funcionalidades
